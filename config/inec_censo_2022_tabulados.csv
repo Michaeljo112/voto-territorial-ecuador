@@ -1,0 +1,19 @@
+slug,tema,dominio,url
+condiciones_vida,Condiciones de vida,Hogar,https://www.censoecuador.gob.ec/wp-content/uploads/2023/12/01_2022_CPV_CONDICIONES_DE_VIDA.zip
+practicas_ambientales,Practicas ambientales,Hogar,https://www.censoecuador.gob.ec/wp-content/uploads/2023/12/02_2022_CPV_PRACTICAS_AMBIENTALES.zip
+estado_conyugal,Estado conyugal,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2023/12/03_2022_CPV_Estado_conyugal.zip
+tic,Uso de TIC,Hogar,https://www.censoecuador.gob.ec/wp-content/uploads/2023/12/03_2022_CPV_TIC.zip
+composicion_hogar,Composicion del hogar,Hogar,https://www.censoecuador.gob.ec/wp-content/uploads/2023/12/04_2022_CPV_Composicion_hogar.zip
+condiciones_vivienda,Condicion general de vivienda,Vivienda,https://www.censoecuador.gob.ec/wp-content/uploads/2023/12/05_2022_CPV_Condiciones_generales_vivienda.zip
+servicios_vivienda,Servicios basicos de vivienda,Vivienda,https://www.censoecuador.gob.ec/wp-content/uploads/2023/12/06_2022_CPV_Servicios_basicos_vivienda.zip
+autoidentificacion_cultura,Etnia / autoidentificacion cultural,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/02/2022_CPV_Autoidentificacion_Cultura_csv.zip
+migracion,Migracion,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/02/2022_CPV_Migracion_csv.zip
+estructura_poblacional,Estructura poblacional,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/04/01_2022_CPV_Estructura_poblacional_CSV.zip
+educacion,Educacion,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/04/2022_CPV_Educacion_CSV.zip
+trabajo,Trabajo,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/04/2022_CPV_Trabajo_CSV.zip
+dificultades_funcionales,Dificultades funcionales,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/04/Tabulados_Dificultades_funcionales_CSV.zip
+identidad_genero_orientacion_sexual,Identidad de genero y orientacion sexual,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/05/15_2022_CPV_IdGenero_OSexual.csv.zip
+mascotas,Mascotas,Hogar,https://www.censoecuador.gob.ec/wp-content/uploads/2024/05/CSV_2022_Censo_Mascotas.zip
+mortalidad,Mortalidad,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/05/CSV_2022_Censo_Mortalidad.zip
+inscripcion_cedulacion,Inscripcion y cedulacion,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/05/CSV_Censo2022_Inscripcion_Cedulacion.zip
+pobreza_nbi,Pobreza por NBI,Poblacion,https://www.censoecuador.gob.ec/wp-content/uploads/2024/05/Tabulados_pobreza_por_NBI_CSV.zip

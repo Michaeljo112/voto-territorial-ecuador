@@ -1,0 +1,16 @@
+check,value
+satellite_rows,1041.0
+satellite_unique_adm3,1041.0
+election_rows,1033.0
+census_rows,1042.0
+final_rows,1041.0
+missing_election,9.0
+missing_census,0.0
+sat_vs_censo_population_abs_diff_sum,54586.0
+sat_vs_censo_population_diff_rows,550.0
+sat_vs_censo_nbi_persons_abs_diff_sum,0.0
+sat_vs_censo_nbi_persons_diff_rows,0.0
+sat_vs_censo_nbi_poor_abs_diff_sum,0.0
+sat_vs_censo_nbi_poor_diff_rows,0.0
+census_parish_rows,1042.0
+adm3_rows,1042.0

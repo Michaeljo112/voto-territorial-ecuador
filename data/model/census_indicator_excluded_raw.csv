@@ -1,0 +1,47 @@
+feature_id,metric,reason
+censo_ind_migracion_3_2_lugar_de_residencia_hace_5_anos_en_esta_cuidad_o_parroquia_rural_sexo_al_nacer_hombres,Lugar de residencia hace 5 años | En esta cuidad o parroquia rural | Sexo al nacer | Hombres,no_total_row_in_table_group
+censo_ind_migracion_3_2_lugar_de_residencia_hace_5_anos_en_esta_cuidad_o_parroquia_rural_sexo_al_nacer_mujeres,Lugar de residencia hace 5 años | En esta cuidad o parroquia rural | Sexo al nacer | Mujeres,no_total_row_in_table_group
+censo_ind_migracion_3_2_lugar_de_residencia_hace_5_anos_en_esta_cuidad_o_parroquia_rural_sexo_al_nacer_numero_de_personas_de_5_anos_o_mas_que_residian_en_esta_ciudad_o_parroquia_rural_hace_5_anos,Lugar de residencia hace 5 años | En esta cuidad o parroquia rural | Sexo al nacer | Número de personas de 5 años o más que residían en esta ciudad o parroquia rural hace 5 años,no_total_row_in_table_group
+censo_ind_migracion_3_2_lugar_de_residencia_hace_5_anos_en_otro_lugar_del_pais_sexo_al_nacer_hombres,Lugar de residencia hace 5 años | En otro lugar del país | Sexo al nacer | Hombres,no_total_row_in_table_group
+censo_ind_migracion_3_2_lugar_de_residencia_hace_5_anos_en_otro_lugar_del_pais_sexo_al_nacer_mujeres,Lugar de residencia hace 5 años | En otro lugar del país | Sexo al nacer | Mujeres,no_total_row_in_table_group
+censo_ind_migracion_3_2_lugar_de_residencia_hace_5_anos_en_otro_lugar_del_pais_sexo_al_nacer_numero_de_personas_de_5_anos_o_mas_que_residian_en_otro_lugar_del_pais_hace_5_anos,Lugar de residencia hace 5 años | En otro lugar del país | Sexo al nacer | Número de personas de 5 años o más que residían en otro lugar del país hace 5 años,no_total_row_in_table_group
+censo_ind_migracion_3_2_lugar_de_residencia_hace_5_anos_en_otro_pais_sexo_al_nacer_numero_de_personas_de_5_anos_o_mas_que_residian_en_otro_pais_hace_5_anos,Lugar de residencia hace 5 años | En otro país | Sexo al nacer | Número de personas de 5 años o más que residían en otro país hace 5 años,no_total_row_in_table_group
+censo_ind_migracion_3_2_numero_de_personas_de_5_anos_o_mas_en_esta_cuidad_o_parroquia_rural,Número de personas de 5 años o más | En esta cuidad o parroquia rural,no_total_row_in_table_group
+censo_ind_servicios_vivienda_1_2_acceso_a_servicios_basicos_agua_por_red_publica_a,Acceso a servicios básicos | Agua por red pública (a),no_total_row_in_table_group
+censo_ind_servicios_vivienda_1_2_acceso_a_servicios_basicos_energia_electrica_de_red_publica,Acceso a servicios básicos | Energía eléctrica de red pública,no_total_row_in_table_group
+censo_ind_servicios_vivienda_1_2_acceso_a_servicios_basicos_recoleccion_de_basura_b,Acceso a servicios básicos | Recolección de basura (b),no_total_row_in_table_group
+censo_ind_servicios_vivienda_1_2_acceso_a_servicios_basicos_red_publica_de_alcantarillado_c,Acceso a servicios básicos | Red pública de alcantarillado (c),no_total_row_in_table_group
+censo_ind_tic_1_2_hombres_uso_de_tic_en_los_ultimos_3_meses_uso_de_computadora_o_laptop_no,Uso de TIC en los últimos 3 meses | Uso de computadora o laptop | No,no_total_row_in_table_group
+censo_ind_tic_1_2_hombres_uso_de_tic_en_los_ultimos_3_meses_uso_de_computadora_o_laptop_si,Uso de TIC en los últimos 3 meses | Uso de computadora o laptop | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_hombres_uso_de_tic_en_los_ultimos_3_meses_uso_de_internet_no,Uso de TIC en los últimos 3 meses | Uso de internet | No,no_total_row_in_table_group
+censo_ind_tic_1_2_hombres_uso_de_tic_en_los_ultimos_3_meses_uso_de_internet_si,Uso de TIC en los últimos 3 meses | Uso de internet | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_hombres_uso_de_tic_en_los_ultimos_3_meses_uso_de_tablet_no,Uso de TIC en los últimos 3 meses | Uso de tablet | No,no_total_row_in_table_group
+censo_ind_tic_1_2_hombres_uso_de_tic_en_los_ultimos_3_meses_uso_de_tablet_si,Uso de TIC en los últimos 3 meses | Uso de tablet | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_hombres_uso_de_tic_en_los_ultimos_3_meses_uso_de_telefono_celular_no,Uso de TIC en los últimos 3 meses | Uso de teléfono celular | No,no_total_row_in_table_group
+censo_ind_tic_1_2_hombres_uso_de_tic_en_los_ultimos_3_meses_uso_de_telefono_celular_si,Uso de TIC en los últimos 3 meses | Uso de teléfono celular | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_mujeres_uso_de_tic_en_los_ultimos_3_meses_uso_de_computadora_o_laptop_no,Uso de TIC en los últimos 3 meses | Uso de computadora o laptop | No,no_total_row_in_table_group
+censo_ind_tic_1_2_mujeres_uso_de_tic_en_los_ultimos_3_meses_uso_de_computadora_o_laptop_si,Uso de TIC en los últimos 3 meses | Uso de computadora o laptop | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_mujeres_uso_de_tic_en_los_ultimos_3_meses_uso_de_internet_no,Uso de TIC en los últimos 3 meses | Uso de internet | No,no_total_row_in_table_group
+censo_ind_tic_1_2_mujeres_uso_de_tic_en_los_ultimos_3_meses_uso_de_internet_si,Uso de TIC en los últimos 3 meses | Uso de internet | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_mujeres_uso_de_tic_en_los_ultimos_3_meses_uso_de_tablet_no,Uso de TIC en los últimos 3 meses | Uso de tablet | No,no_total_row_in_table_group
+censo_ind_tic_1_2_mujeres_uso_de_tic_en_los_ultimos_3_meses_uso_de_tablet_si,Uso de TIC en los últimos 3 meses | Uso de tablet | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_mujeres_uso_de_tic_en_los_ultimos_3_meses_uso_de_telefono_celular_no,Uso de TIC en los últimos 3 meses | Uso de teléfono celular | No,no_total_row_in_table_group
+censo_ind_tic_1_2_mujeres_uso_de_tic_en_los_ultimos_3_meses_uso_de_telefono_celular_si,Uso de TIC en los últimos 3 meses | Uso de teléfono celular | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_total_geografia_uso_de_tic_en_los_ultimos_3_meses_uso_de_computadora_o_laptop_no,Uso de TIC en los últimos 3 meses | Uso de computadora o laptop | No,no_total_row_in_table_group
+censo_ind_tic_1_2_total_geografia_uso_de_tic_en_los_ultimos_3_meses_uso_de_computadora_o_laptop_si,Uso de TIC en los últimos 3 meses | Uso de computadora o laptop | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_total_geografia_uso_de_tic_en_los_ultimos_3_meses_uso_de_internet_no,Uso de TIC en los últimos 3 meses | Uso de internet | No,no_total_row_in_table_group
+censo_ind_tic_1_2_total_geografia_uso_de_tic_en_los_ultimos_3_meses_uso_de_internet_si,Uso de TIC en los últimos 3 meses | Uso de internet | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_total_geografia_uso_de_tic_en_los_ultimos_3_meses_uso_de_tablet_no,Uso de TIC en los últimos 3 meses | Uso de tablet | No,no_total_row_in_table_group
+censo_ind_tic_1_2_total_geografia_uso_de_tic_en_los_ultimos_3_meses_uso_de_tablet_si,Uso de TIC en los últimos 3 meses | Uso de tablet | Sí,no_total_row_in_table_group
+censo_ind_tic_1_2_total_geografia_uso_de_tic_en_los_ultimos_3_meses_uso_de_telefono_celular_no,Uso de TIC en los últimos 3 meses | Uso de teléfono celular | No,no_total_row_in_table_group
+censo_ind_tic_1_2_total_geografia_uso_de_tic_en_los_ultimos_3_meses_uso_de_telefono_celular_si,Uso de TIC en los últimos 3 meses | Uso de teléfono celular | Sí,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_computadora_de_escritorio_o_laptop_no,Disponibilidad de bienes y servicios TIC | Computadora (de escritorio o laptop) | No,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_computadora_de_escritorio_o_laptop_si,Disponibilidad de bienes y servicios TIC | Computadora (de escritorio o laptop) | Sí,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_internet_fijo_no,Disponibilidad de bienes y servicios TIC | Internet fijo | No,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_internet_fijo_si,Disponibilidad de bienes y servicios TIC | Internet fijo | Sí,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_telefono_celular_no,Disponibilidad de bienes y servicios TIC | Teléfono celular | No,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_telefono_celular_si,Disponibilidad de bienes y servicios TIC | Teléfono celular | Sí,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_telefono_convencional_no,Disponibilidad de bienes y servicios TIC | Teléfono convencional | No,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_telefono_convencional_si,Disponibilidad de bienes y servicios TIC | Teléfono convencional | Sí,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_television_pagada_no,Disponibilidad de bienes y servicios TIC | Televisión pagada | No,no_total_row_in_table_group
+censo_ind_tic_3_2_disponibilidad_de_bienes_y_servicios_tic_television_pagada_si,Disponibilidad de bienes y servicios TIC | Televisión pagada | Sí,no_total_row_in_table_group
