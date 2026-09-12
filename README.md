@@ -1,6 +1,6 @@
 # Territorio, condiciones socioeconómicas y preferencias ideológicas a nivel parroquial en Ecuador
 
-Repositorio de datos y código reproducible para un artículo académico en preparación sobre patrones territoriales de voto en Ecuador a nivel de parroquia (n=1.041), integrando datos satelitales, censales (INEC 2022) y electorales (primera vuelta presidencial 2025, reclasificada con una taxonomía tipo Political Compass). El manuscrito no se publica aquí — este repositorio cubre solo los datos y el pipeline, para que el análisis sea auditable y reproducible independientemente del estado de revisión del artículo.
+Repositorio de datos y código reproducible para estudiar patrones territoriales de voto en Ecuador a nivel de parroquia (n=1.041), integrando datos satelitales, censales (INEC 2022) y electorales (primera vuelta presidencial 2025, reclasificada con una taxonomía tipo Political Compass).
 
 ## Estructura
 
@@ -33,7 +33,3 @@ Ver [data/README.md](data/README.md) para procedencia detallada de cada archivo 
 ## Licencia
 
 El código (scripts, notebooks) se distribuye bajo licencia MIT — ver [LICENSE](LICENSE). Los datos redistribuidos en `data/` provienen de fuentes públicas de gobierno (INEC, CNE); revisar sus términos de uso antes de reutilizar o redistribuir.
-
-## Cita
-
-Citación formal pendiente hasta contar con versión sometida/publicada.
