@@ -6,6 +6,11 @@ data/model/*.sqlite
 # Manuscript-generation script — kept private
 scripts/build_manuscript_iconos.py
 
+# Paper draft/manuscript folder — lives in the private analisisElectoral
+# repo, not here; build_cluster_map.py writes its figure output under
+# this path but the folder itself must never be committed to this repo.
+papers/
+
 # Python
 __pycache__/
 *.pyc
