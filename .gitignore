@@ -3,6 +3,9 @@ data/censo_inec/
 data/ecu_adm_2024/
 data/model/*.sqlite
 
+# Paper-generation pipeline scripts — kept private
+scripts/
+
 # Python
 __pycache__/
 *.pyc
