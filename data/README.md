@@ -80,6 +80,31 @@ python scripts/normalize_census_indicators.py
 # esta flag, con un conteo de features inconsistente — ya corregido).
 python scripts/cluster_vote_patterns.py --k 5 --include-election-features
 python scripts/compare_clustering_methods.py --include-election-features
+
+# 6. Robustez con catálogo censal completo (sección 8 del paper: 667 tasas,
+#    PCA 90% varianza → 83 componentes, silhouette 0.087 sin PCA → 0.100 con PCA)
+python scripts/build_parish_model_dataset.py \
+  --include-census-indicators \
+  --census-indicators data/model/census_indicator_features_normalized.csv
+# El script nombra la salida "parroquia_features_full_census.csv" (sin "_normalized");
+# renombrar para que coincida con lo que usan los pasos siguientes y con lo ya
+# incluido en este repo:
+mv data/model/parroquia_features_full_census.csv data/model/parroquia_features_full_census_normalized.csv
+mv data/model/merge_report_full_census.csv data/model/merge_report_full_census_normalized.csv
+mv data/model/merge_issues_full_census.csv data/model/merge_issues_full_census_normalized.csv
+
+python scripts/compare_clustering_methods.py \
+  --input data/model/parroquia_features_full_census_normalized.csv --include-election-features
+python scripts/compare_clustering_methods.py \
+  --input data/model/parroquia_features_full_census_normalized.csv --include-election-features --pca-variance 0.9
+python scripts/cluster_vote_patterns.py \
+  --input data/model/parroquia_features_full_census_normalized.csv --include-election-features --k 5 --pca-variance 0.9
+# -> cluster_summary_pc_full_census_normalized_kmeans_pca0p9_k5.csv (tabla sección 8)
+
+# 7. Figura 1 (mapa de clusters, requiere ecu_adm_2024/, ver sección 2 arriba)
+python scripts/build_cluster_map.py
 ```
 
-Todas las salidas de los pasos 3-5 ya están incluidas en `data/model/` — no hace falta re-ejecutar nada para verificar las tablas del paper, solo para regenerar desde la fuente cruda.
+Todas las salidas de los pasos 3-7 ya están incluidas en `data/model/` y `papers/01_nacional_territorio_ideologia/figures/` — no hace falta re-ejecutar nada para verificar las tablas ni la figura del paper, solo para regenerar desde la fuente cruda.
+
+**Verificado reproducible end-to-end el 2026-09-11:** se corrieron los pasos 5, 6 y 7 desde cero (incluida la descarga/consulta del censo INEC crudo) y las salidas coincidieron exactamente (`git diff` vacío) con lo ya versionado en este repositorio, y con cada cifra citada en el draft del paper (secciones 3.1, 5.1, 6 y 8).
